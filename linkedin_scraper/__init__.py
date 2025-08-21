@@ -5,8 +5,9 @@ from .job_search import JobSearch
 from .jobs import Job
 from .objects import Contact, Education, Experience, Institution
 from .person import Person
+from .people_search import PeopleSearch
 
-__version__ = "2.11.5"
+__version__ = "2.12.0"
 
 import glob
 
@@ -22,4 +23,5 @@ __all__ = [
     "Experience",
     "Institution",
     "Person",
+    "PeopleSearch",
 ]

@@ -1,6 +1,6 @@
 [project]
 name = "linkedin-scraper"
-version = "2.11.5"
+version = "2.12.0"
 description = "Scrapes user data from LinkedIn"
 readme = "README.md"
 requires-python = ">=3.10"
